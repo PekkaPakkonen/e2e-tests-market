@@ -1,0 +1,13 @@
+{
+  "name": "e2e-tests-market",
+  "version": "0.0.1",
+  "description": "Various e2e tests for market-ekfgroup",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
